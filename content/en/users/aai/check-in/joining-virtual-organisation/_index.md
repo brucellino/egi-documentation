@@ -38,7 +38,7 @@ don't have, then first [sign up for an EGI account](../signup/).
 
 1. If its status is not in `Pending Approval`, `Pending Confirmation` or
    `Finalized` you will see a page similar to this:
-   ![Pending Petition](./check-in-pending-petition-created.png) Hhere you can:
+   ![Pending Petition](./check-in-pending-petition-created.png) Here you can:
 
    - Click the **Resume** button and continue the enrollment flow
    - Click **Proceed with new enrollment**, so a new enrollment flow will start
