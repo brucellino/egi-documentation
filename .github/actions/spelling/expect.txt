@@ -37,3 +37,4 @@ unconfigured
 Unregistering
 workflows
 yyy
+COMMIT_MSG
