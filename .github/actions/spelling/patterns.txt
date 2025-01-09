@@ -152,4 +152,3 @@ mailto:[-a-zA-Z=;:/?%&0-9+@.]{3,}
 \ba2enmod\b
 \beduGAIN\b
 \b-field\b
-\bCOMMIT_MSG\b
