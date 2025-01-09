@@ -10,6 +10,7 @@ repos:
         args:
           - --config
           - .prettierrc.toml
+        exclude: COMMIT_EDITMSG
   - repo: https://github.com/python-jsonschema/check-jsonschema
     rev: 0.28.0
     hooks:
